@@ -1,3 +1,6 @@
+def square(num):
+    """Returns the square of the given number."""
+    return num * num  # Or num ** 2
 def sum_of_squares(numbers):
     """Returns the sum of the squares of the numbers in the list."""
     total = 0
